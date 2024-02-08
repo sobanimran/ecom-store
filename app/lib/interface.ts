@@ -20,7 +20,7 @@ export interface detailedProduct {
 
 
 
-interface Iimages {
+export interface Iimages {
   _type: string, _key: string, asset: Iasset
 }
 interface Iasset {
